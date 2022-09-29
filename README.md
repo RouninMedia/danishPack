@@ -6,6 +6,7 @@
 - http://indiegamr.com/cut-your-data-exchange-traffic-by-up-to-50-with-one-line-of-code-msgpack-vs-json/
 ______
 
+- https://github.com/antirez/smaz
 - https://stackoverflow.com/questions/33331552/how-smaz-compression-library-works
 
 _____
