@@ -14,3 +14,8 @@ _____
 - https://www3.nd.edu/~busiforc/handouts/cryptography/Letter%20Frequencies.html
 - https://www.petercollingridge.co.uk/blog/language/analysing-english/consonant-clustering/
 - https://www.enchantedlearning.com/consonantblends/index.shtml
+
+______
+
+- https://www.multiutil.com/text-to-brotli-compress/
+- https://onlinetexttools.com/url-encode-text
