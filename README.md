@@ -1,11 +1,9 @@
 # danishPack
 **danishPack** (or **danis³hPack**) is a highly optimised compression process for JSON files for use in both:
 
-1. **DaNIS³H Capsule** Modular Architecture
+1. **DaNIS³H Capsule** Modular Architecture; and in the
 
-and in
-
-2. the **Ashiva** TouchScreen Optimised Progressive Web App (PWA) Content Management System (CMS)
+2. **Ashiva** TouchScreen Optimised Progressive Web App (PWA) Content Management System (CMS)
 
 **danishPack** is capable of reducing the filesize of an unminified JSON file by **95%**.
 
