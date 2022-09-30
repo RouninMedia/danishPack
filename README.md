@@ -5,7 +5,7 @@
 
 2. **Ashiva** TouchScreen Optimised Progressive Web App (PWA) Content Management System (CMS)
 
-**danishPack** is capable of reducing the filesize of an unminified JSON file by **95%**.
+**danishPack** can reduce the filesize of an unminified JSON file by **95%**.
 
 - http://indiegamr.com/cut-your-data-exchange-traffic-by-up-to-50-with-one-line-of-code-msgpack-vs-json/
 ______
