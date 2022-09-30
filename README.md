@@ -18,6 +18,7 @@ _____
 - https://www3.nd.edu/~busiforc/handouts/cryptography/Letter%20Frequencies.html
 - https://www.petercollingridge.co.uk/blog/language/analysing-english/consonant-clustering/
 - https://www.enchantedlearning.com/consonantblends/index.shtml
+- https://teachphonics.co.uk/teaching-phonics.html
 
 ______
 
